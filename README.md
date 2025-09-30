@@ -8,23 +8,23 @@
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="53" />
+  <img width="38" />
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
-  <img width="53" />
+  <img width="38" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="53" />
+  <img width="38" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
-  <img width="53" />
+  <img width="38" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="53" />
+  <img width="38" />
   <img src="https://cdn.simpleicons.org/php/777BB4" height="40" alt="php logo"  />
-  <img width="53" />
+  <img width="38" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="53" />
+  <img width="38" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-  <img width="53" />
+  <img width="38" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="40" alt="css logo"  />
-  <img width="53" />
+  <img width="38" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="40" alt="html5 logo"  />
 </div>
 
