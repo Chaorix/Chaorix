@@ -34,7 +34,7 @@
   <a href="https://www.linkedin.com/in/lucas-silva-4a1a49349?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="linkedin logo"  />
   </a>
-  <a href="https://discord.com/users/1407337469401104467" target="_blank">
+  <a href="https://discord.com/users/766689862602063942" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="discord logo"  />
   </a>
 </div>
