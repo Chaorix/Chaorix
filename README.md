@@ -4,21 +4,13 @@
 
 ###
 
-<img align="left" height="120" src="https://files.catbox.moe/aw2ge0.jpg"  />
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chaorix/chaorix/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chaorix/chaorix/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/chaorix/chaorix/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <br clear="both">
 
 <img align="right" height="100" src="https://files.catbox.moe/nmod0h.jpg"  />
+
+###
+
+<img align="left" height="130" src="https://files.catbox.moe/aw2ge0.jpg"  />
 
 ###
 
@@ -57,5 +49,15 @@
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=chaorix&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
+
+###
+
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chaorix/chaorix/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chaorix/chaorix/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/chaorix/chaorix/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
