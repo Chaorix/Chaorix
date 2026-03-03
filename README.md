@@ -1,9 +1,3 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=39&fontColor=FFFFFF&fontAlign=50&fontAlignY=88&stroke=FFFFFF&strokeWidth=-14&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
-</div>
-
-###
-
 <br clear="both">
 
 <img align="right" height="100" src="https://files.catbox.moe/nmod0h.jpg"  />
@@ -14,7 +8,7 @@
 
 ###
 
-<h2 align="center">Full stack developer | Co-founder oraktron.com</h2>
+<h1 align="center">Full stack developer | Co-founder oraktron.com</h1>
 
 ###
 
