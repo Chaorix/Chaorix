@@ -1,10 +1,10 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Chaorix&fontSize=39&fontColor=FFFFFF&fontAlign=50&fontAlignY=88&stroke=FFFFFF&strokeWidth=-14&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&theme=onedark"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=39&fontColor=FFFFFF&fontAlign=50&fontAlignY=88&stroke=FFFFFF&strokeWidth=-14&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
 ###
 
-<img align="left" height="140" src="https://files.catbox.moe/aw2ge0.jpg"  />
+<img align="left" height="170" src="https://files.catbox.moe/aw2ge0.jpg"  />
 
 ###
 
