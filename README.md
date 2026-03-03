@@ -32,7 +32,7 @@
 
 ###
 
-<h1 align="center">Full stack developer | Co-founder oraktron.com</h1>
+<h3 align="center">Full stack developer | Co-founder oraktron.com</h3>
 
 ###
 
