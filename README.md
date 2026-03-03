@@ -4,7 +4,7 @@
 
 ###
 
-<img align="left" height="170" src="https://files.catbox.moe/aw2ge0.jpg"  />
+<img align="left" height="100" src="https://files.catbox.moe/aw2ge0.jpg"  />
 
 ###
 
